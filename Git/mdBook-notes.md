@@ -1,0 +1,4 @@
+# mdBook Notes
+## Site
+https://rust-lang.github.io/mdBook/
+https://github.com/rust-lang/mdBook
